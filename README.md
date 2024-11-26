@@ -8,9 +8,6 @@ I have been making things in software all my adult life from TRS80 Model III up 
 
 I make embedded devices and standalone applications for fun mainly, but sometimes to adapt aroung my disability. I intend to get better at opensourcing things - soz.
 
-Also, the website seems pointless, so I might close that down soon. 
-- 📫 www.testmonkey.co.uk
-
 <!---
 Ed-Davis/Ed-Davis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
